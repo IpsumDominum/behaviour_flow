@@ -1,0 +1,18 @@
+Example Scenarios For Behaviour:
+
+1. A Robot is standing at a drawing booth, in Idle state, the robot first sees a human it is familiar with, but right afterwards is prompted with a question which it cannot determine who the speaker is from.
+2. A Robot is in the middle of a conversation, the robot was just asked a question on its preferences of cheese, then, it is immediately asked 'how are you?'
+3. A Robot is standing in the middle of a trade show, where the robot is asked to raise its arm, but the Robot cannot raise its arm due to a motor failure.
+4. A Robot is attempting to pick up a cup from a table, in the middle of the Robot's action, the robot is asked a question about math.
+5. A Robot is in the middle of drawing, and the robot is asked a question, where the robot should look up, find the speaker and also pause what it's doing.
+
+
+Example Scenarios For Dialogue:
+
+1. A Robot is asked about its own state, how's your system?
+2. A Robot is asked about its opinion on a current affairs situation.
+3. 
+
+
+
+

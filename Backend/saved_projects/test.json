@@ -1,0 +1,28 @@
+{
+    "nodes":[
+        {"id":"1",
+         "type": "stateNode",
+         "position":{
+            "x":300,
+            "y":50
+         }
+        },
+        {"id":"2",
+         "type": "customScriptNode",
+         "position":{
+            "x":350,
+            "y":50
+         },
+         "data":{
+            "name":"hi"
+         }
+        }
+    ],
+    "edges":[
+        { "id": "alsdkj",
+         "source": "1",
+         "target": "2" 
+        }
+    ]
+
+}
